@@ -7,10 +7,10 @@ public class lc455 {
         lc455 solution = new lc455();
         int[] children = new int[]{4,3,2,1};
         int[] cookies = new int[]{1,3,5,7};
-        System.out.println(solution.findCotentChildren(children,cookies));
+        System.out.println(solution.findContentChildren(children,cookies));
     }
 
-    public int findCotentChildren (int[] children,int[] cookies){
+    public int findContentChildren (int[] children,int[] cookies){
         Arrays.sort(children);
         Arrays.sort(cookies);
         int i =0, j= 0;
