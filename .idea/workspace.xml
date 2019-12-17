@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ce63d9-ac24-4a5c-a446-ec3e83401f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/lc665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/lc392.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/lc665.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="510">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc392.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -91,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/lc122.java" />
         <option value="$PROJECT_DIR$/src/leetcode/lc605.java" />
         <option value="$PROJECT_DIR$/src/leetcode/lc665.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc392.java" />
       </list>
     </option>
   </component>
@@ -150,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lc665">
+  <component name="RunManager" selected="Application.lc392">
     <configuration name="lc122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.lc122" />
       <module name="Leetcode" />
@@ -164,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc452" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.lc452" />
+    <configuration name="lc392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc392" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -177,8 +187,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.lc455" />
+    <configuration name="lc452" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc452" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -218,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc392" />
         <item itemvalue="Application.lc665" />
         <item itemvalue="Application.lc605" />
         <item itemvalue="Application.lc122" />
         <item itemvalue="Application.lc452" />
-        <item itemvalue="Application.lc455" />
       </list>
     </recent_temporary>
   </component>
@@ -375,8 +385,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/lc665.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc392.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
