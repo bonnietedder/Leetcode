@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ce63d9-ac24-4a5c-a446-ec3e83401f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/lc1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/lc167.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/lc1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -49,6 +48,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc167.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -113,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/lc763.java" />
         <option value="$PROJECT_DIR$/src/leetcode/lc406.java" />
         <option value="$PROJECT_DIR$/src/leetcode/lc1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc167.java" />
       </list>
     </option>
   </component>
@@ -172,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.lc1">
+  <component name="RunManager" selected="Application.lc167">
     <configuration name="lc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.lc1" />
       <module name="Leetcode" />
@@ -186,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.lc225" />
+    <configuration name="lc167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc167" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.lc232" />
+    <configuration name="lc225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc225" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -240,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lc167" />
         <item itemvalue="Application.lc1" />
         <item itemvalue="Application.lc406" />
         <item itemvalue="Application.lc763" />
         <item itemvalue="Application.lc225" />
-        <item itemvalue="Application.lc232" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +274,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20928338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20928338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +283,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23909986" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23909986" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,6 +466,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc167.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
