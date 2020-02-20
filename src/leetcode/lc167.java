@@ -20,7 +20,7 @@ public class lc167 {
                 start ++;
             }
             else
-                end ++;
+                end --;
         }
         return null;
     }
